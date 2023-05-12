@@ -1,0 +1,15 @@
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\bin\Debug\net6.0\RegistryServices.Application.deps.json
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\bin\Debug\net6.0\RegistryServices.Application.dll
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\bin\Debug\net6.0\RegistryServices.Application.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\bin\Debug\net6.0\RegistryServices.Domain.dll
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\bin\Debug\net6.0\RegistryServices.Domain.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.csproj.AssemblyReference.cache
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.AssemblyInfoInputs.cache
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.AssemblyInfo.cs
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.csproj.CoreCompileInputs.cache
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.csproj.CopyComplete
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.dll
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\refint\RegistryServices.Application.dll
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\RegistryServices.Application.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Application\obj\Debug\net6.0\ref\RegistryServices.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\bin\Debug\net6.0\RegistryServices.Domain.deps.json
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\bin\Debug\net6.0\RegistryServices.Domain.dll
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\bin\Debug\net6.0\RegistryServices.Domain.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\RegistryServices.Domain.csproj.AssemblyReference.cache
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\RegistryServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\RegistryServices.Domain.AssemblyInfoInputs.cache
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\RegistryServices.Domain.AssemblyInfo.cs
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\RegistryServices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\RegistryServices.Domain.dll
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\refint\RegistryServices.Domain.dll
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\RegistryServices.Domain.pdb
+C:\Users\Terry\source\Proyect_Ultimate02\RegistryServices.Api\RegistryServices.Domain\obj\Debug\net6.0\ref\RegistryServices.Domain.dll
